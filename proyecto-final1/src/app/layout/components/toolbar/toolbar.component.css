@@ -1,0 +1,13 @@
+.title{
+    display: flex;
+    justify-content: center;
+    background-color: transparent;
+}
+
+span{
+    color: #fffffe;
+    font-family: Proxima-nova, sans-serif;
+    font-size: 2rem;
+    font-weight: bolder;
+    letter-spacing: .1rem;
+}

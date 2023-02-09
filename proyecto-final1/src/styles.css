@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+@font-face {
+  font-family: Proxima-nova;
+  src: url(assets/fonts/Fontspring-DEMO-proximanova-medium.otf) format("opentype");
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0%;
+}
+
+.spacer {
+  flex: 1 1 auto;
+}
+
+.mat-tooltip {
+  font-size: 15px;
+}
+
+.mat-typography{
+  background-color: #0f0e17;
+}
